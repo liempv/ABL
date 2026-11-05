@@ -1,1 +1,4 @@
 
+||example.com^
+||bad-domain.net^
+||adult-site.org^
