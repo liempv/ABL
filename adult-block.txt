@@ -1,6 +1,6 @@
-
-||example.com^
-||bad-domain.net^
+! Title: Custom Adult Blocklist
+! Last modified: 2026-11-05
 ||adult-site.org^
 ||dualeotruyen.info^
 ||dualeotruyenqo.com^
+/dualeo/
